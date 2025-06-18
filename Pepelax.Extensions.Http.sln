@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pepelax.Extensions.Http", "Pepelax.Extensions.Http\Pepelax.Extensions.Http.csproj", "{1B7CC916-8BC5-417A-9E7D-7AC680D89E3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pepelax.Extensions.Http.Example", "Pepelax.Extensions.Http.Example\Pepelax.Extensions.Http.Example.csproj", "{5620BC1B-EE1A-48B3-834C-6EFDCE0CC346}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B7CC916-8BC5-417A-9E7D-7AC680D89E3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B7CC916-8BC5-417A-9E7D-7AC680D89E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B7CC916-8BC5-417A-9E7D-7AC680D89E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B7CC916-8BC5-417A-9E7D-7AC680D89E3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5620BC1B-EE1A-48B3-834C-6EFDCE0CC346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5620BC1B-EE1A-48B3-834C-6EFDCE0CC346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5620BC1B-EE1A-48B3-834C-6EFDCE0CC346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5620BC1B-EE1A-48B3-834C-6EFDCE0CC346}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
